@@ -20,3 +20,6 @@ Steps:
    - Use GitHub Copilot Chat to prompt Copilot to solve the same problem.
 Question: Which method did you prefer?
 6. Use Copilot Chat to create a simple unit test for the program. Does it work as expected?
+
+> [!TIP]
+> If using a language you are unfamiliar with, prompt Copilot chat with questions on how to "run/execute the script"

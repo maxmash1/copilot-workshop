@@ -4,6 +4,26 @@ Welcome to the **GitHub Copilot Workshop Projects** repository! This repository 
 
 Each project is intended to showcase different uses of GitHub Copilot, and can be completed individually or as part of a guided learning experience.
 
+## Prerequisites
+Individual project build prequisities are listed below the project. 
+- Install [Visual Studio Code](https://code.visualstudio.com/download) or use [Codespaces](https://github.com/features/codespaces)
+- Install Copilot and sigin in with GitHub credentials
+
+### Local Build Prerequisities
+#### Python
+- Install Python 3.x
+    - [Brew](https://brew.sh/) is recommended for Macintosh users
+- Install VS Code Python language support extension pack
+
+#### Java
+- Install JDK 21+
+    - [SDKMan](https://sdkman.io/) is recommended for Macintosh users
+- Install Maven or Gradle using SDKman
+    - `sdk install maven` or `sdk install gradle`
+- Install VS Code Java language support extension pack
+
+
+
 ## Table of Contents
 
 1. [Project 1: Hello World](#project-1-hello-world)

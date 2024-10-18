@@ -9,6 +9,9 @@ As a developer, your goal is to **find and fix the problems**. We recommend the 
 - Are you able to refactor and/or optimize the code, any methods?
 - Generate documentation based on the code that explains what the program does.
 
+> [!TIP]
+> If Copilot is blocked from using public code, it is highly recommended to read the prompt engineering guidance and prompt tips below to break prompts into smaller action items.
+
 ## Optional:
 In this optional section of the project, you'll use GitHub Copilot to create a browser version of the Tic Tac Toe game you completed in the first exercise. No order or task list is provided, the goal here is to prompt Copilot Chat to create the JavaScript version of this game and any other necessary files you need to run it in the browser (hint: HTML, CSS). Optionally if you have time you can modify the look of the webpage to make the game interface visually appealing.
 
@@ -18,3 +21,14 @@ If you have extra time, you can read more about GitHub Copilot and how to use it
 - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
 - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [10 Unexpected Ways to Use Github Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/)
+
+
+<details>
+
+<summary>Hints for Completion</summary>
+    - Use /fix for each function to optimize and fix code logic
+	- Use /docs for each function to complete documentation
+    - Use /tests to quickly write unit tests
+	- Ask Copilot chat to generate a pom.xml or how to run the tests to complete tests
+
+</details>
