@@ -9,3 +9,6 @@ Specifically, use GitHub Copilot to:
 - Create a Java/JavaScript or Python program from the user stories
 - Translate the COBOL code to Java/JavaScript or Python code
 - Create a Data Flow diagram from the converted Java/JavaScript or Python code in mermaid.js that can be copied to a GitHub issue and previewed
+
+> [!TIP]
+> [Mermaid Chart](https://github.com/marketplace/mermaid-chart) can be used within the IDE using [Copilot Extensions](https://docs.github.com/en/copilot/using-github-copilot/using-extensions-to-integrate-external-tools-with-copilot-chat)
