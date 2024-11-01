@@ -16,3 +16,10 @@ def get_user_data(username):
     
     return result
 
+<details>
+
+<summary>Hints for Completion</summary>
+    - Are regular expressions for input validation secure?  Ask Copilot for other ways to handle input validation.
+	- Ask Copilot how to create a virtual environment and install a secure library
+
+</details>
