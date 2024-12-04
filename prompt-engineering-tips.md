@@ -35,7 +35,7 @@ Excellent video that shows the differences between autocomplete vs chat and how 
 
 ### Useful/Popular Extensions
 - `@terminal` for assistance with anything in the terminal
-- `@vscode` for assi[stance with anything in VSCode
+- `@vscode` for assistance with anything in VSCode
 - [Docker](https://github.com/marketplace/docker-for-github-copilot) - genereate docker assets & open a pull request, find vulnerabilities with Docker Scout
 - [Mermaid Chart](https://github.com/marketplace/mermaid-chart) for creating diagrams
 - [Stack Overflow](https://github.com/marketplace/stack-overflow-extension-for-github-copilot) - for team Stack Overflow knowledgebases
